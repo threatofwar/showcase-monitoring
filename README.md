@@ -14,3 +14,7 @@ Docker > Prometheus + Grafana.
 3. Access:  
    Prometheus: `http://localhost:9090`
    Grafana: `http://localhost:3000`
+
+Grafana credentials:  
+user: `admin`  
+password: `admin`
